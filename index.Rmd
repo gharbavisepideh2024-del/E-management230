@@ -1,0 +1,30 @@
+---
+title: "SIP PERSIA - Home Page"
+authors:
+  - Parham Alamian, ID
+  - Sepideh Surename, ID
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+---
+
+## Hello and Welcome!
+Its SIP PERSIA!
+<br>A Taste of Persia in Every Cup
+![Our collaborating with golden saffron](https://www.goldensaffron.com/assets/images/uploads/howtomakesaffroncoffee.webp)
+
+What makes our coffee special?
+Made With Real Ingredients. We don’t use artificial flavours. Every spice is sourced from trusted growers, including saffron from the heart of Iran’s Khorasan region.
+You get the luxury and depth of traditional Persian coffee in just 10 seconds. No brewing. No equipment. Just pure flavour, instantly.
+
+Perfect for Anywhere, Anytime
+Whether you’re at work, traveling, or studying, our single-serve sachets fit your lifestyle while keeping every cup fresh.
+
+Our featured flavours are:
+  <br>• Saffron
+  <br>• Cardamom
+  <br>• Rosewater
+  <br>• Cinnamon
+<br><br><br>**[About Us](about.html)** <br>**[Our Team](team.html)** <br>**[Our Projects](projects.html)**<br><br>
+<button class="btn btn-primary">Learn More!</button>

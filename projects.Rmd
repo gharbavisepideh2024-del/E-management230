@@ -1,0 +1,21 @@
+---
+title: "SIP PERSIA - Projects"
+authors:
+  - Parham Alamian, ID
+  - Sepideh Surename, ID
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+---
+Our big projects include:<br><br>
+**1-Marketing:**
+    <br>• Delivery
+    <br>• Price
+    <br>• Advertising
+    <br>• Sells Improvement
+    <br>We developed a marketing project that focuses on three core elements essential for attracting customers and supporting business growth. First, we examined delivery, ensuring that the website clearly communicates reliable, timely, and user-friendly options for customers to receive their products or services. This included emphasizing convenience, efficiency, and customer satisfaction. Second, we analyzed price and sales improvement, where we explored strategies such as competitive pricing, promotional offers, and value-driven messaging to encourage consumer engagement and increase sales performance. Finally, we designed an advertising approach that highlights the website’s key features and connects with the target audience through persuasive visuals, clear messaging, and effective online promotional channels. Altogether, these three components strengthen the overall marketing strategy and enhance the website’s ability to reach and retain customers.
+<br><br>
+**2-Expenditure:**<br>
+    Our company carefully evaluated and recorded all major expenses involved in producing and delivering our flavored coffee products. This included the cost of raw materials such as coffee beans, saffron, cinnamon, and ginger, as well as packaging, labeling, and production equipment. We also accounted for operational expenses, including employee wages, utilities, and general office needs. In addition, we considered marketing and sales costs, such as advertising, promotional materials, and content creation. Logistics and distribution expenses—like shipping, delivery materials, and storage—were also included. Finally, we reviewed legal and financial costs related to taxes, accounting, and company registration. Overall, our expenditure analysis reflects the full range of financial responsibilities required to operate the company effectively.
+<br><br>**[Home Page](index.html)** <br>**[About us](about.html)** <br>**[Our Team](team.html)**

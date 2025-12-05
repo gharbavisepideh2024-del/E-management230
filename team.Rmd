@@ -1,0 +1,48 @@
+---
+title: "SIP PERSIA - Team"
+authors:
+  - Parham Alamian, ID
+  - Sepideh Surename, ID
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+---
+
+**Sepideh**
+    <br>•  CEO
+    <br>•  28 years old.
+    <br>•  +7 years of experience in business management.
+    <br>•  Owner of a cafe in Nanaimo.
+    <br>•  Bachelor of Business Management Administration
+    <br>•  Master of human resources.
+<br><br>
+**Parham(Alex)**
+    <br>•  Marketing manager
+    <br>•  30 years old
+    <br>•  5 years of experience in cost and managerial accounting
+    <br>•  Digital marketing experience
+    <br>•  Bachelor of Business Management Administration
+    <br>•  Master of marketing.
+<br><br>
+**Amirreza**
+    <br>•  Software engineer
+    <br>•  28 years old.
+    <br>•  9 years of experience in SEO and Website development.
+    <br>•  3 years of experience in freelance website developer.
+    <br>•  Developing 4 different games.
+    <br>•  Bachelor of computer science
+    <br>•  Master of software engineering
+<br><br>
+**Setareh**
+    <br>•  Human Resource manager
+    <br>•  28 years old 
+    <br>•  8 years of experience in organizational behaviour.
+    <br>•  Bachelors of civil engineering
+    <br>•  Master of business management 
+<br><br>**[Home Page](index.html)** <br>**[About us](about.html)** <br>**[Our Projects](projects.html)**
+
+
+
+
+

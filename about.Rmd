@@ -1,0 +1,20 @@
+---
+title: "SIP PERSIA - About us"
+authors:
+  - Parham Alamian, ID
+  - Sepideh Surename, ID
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+---
+
+**Inspired by Tradition, Crafted for Modern Life.**<br>
+*A Modern Twist on Tradition*<br>
+We created our coffee to share the warm, aromatic flavours of Persian culture with the world. Using premium Arabica beans and real Persian spices: saffron, cardamom, cinnamon, and rosewater. We craft instant blends that feel rich, authentic, and comforting. Our target is basically every coffee enjoyer!
+Our mission is simple: make Persian flavours easy, accessible, and unforgettable in every cup.
+<br><br>
+**Our Story**<br>
+Sip Persia was born on a day that Sepid and Alex started to sell simple black coffee in the local market located in Nanaimo downtown for over a year. They had their own popularity and loyal customers. After over a year, they decided to make a change and bring some flavour and warmth from their home country, Iran. On a summer morning, they add some saffron- a special Persian spice, ginger, and cinnamon to black coffee. They could attract more than 30% more customers in a month! So, it was a huge spark of a new idea for them to produce their own new products infused with different famous spices of the land of Persia. Now after several years of experience in the coffee industry, now we come up with our own brand “Sip Persia” to let all the people around the world have a cup of blended coffee with the scent of Persia in the easiest way possible.
+<br><br>**[Home Page](index.html)** <br>**[Our Team](team.html)** <br>**[Our Projects](projects.html)**
+
